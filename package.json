@@ -2,7 +2,7 @@
   "name": "goit-react-hw-02-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://virysik.github.io/goit-react-hw-02-phonebook",
+  "homepage": "https://virysik.github.io/goit-react-hw-03-phonebook",
   "dependencies": {
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
